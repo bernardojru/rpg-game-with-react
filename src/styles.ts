@@ -5,3 +5,9 @@ export const Container = styled.div`
   min-height: 100vh;
   color: white;
 `;
+
+export const Map = styled.div`
+  width: 480px;
+  height: 480px;
+  background: url("/assets/map.png") no-repeat center center / cover;
+`;

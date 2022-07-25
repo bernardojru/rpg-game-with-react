@@ -1,7 +1,9 @@
-import {Container} from './styles'
+import {Container, Map} from './styles'
 
 export function App () {
   return (
-    <Container>oi</Container>
+    <Container>
+      <Map></Map>
+    </Container>
   )
 }
